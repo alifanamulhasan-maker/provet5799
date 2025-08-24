@@ -1,0 +1,1046 @@
+[
+  {
+    "level": "A1",
+    "lessons": [
+      {
+        "id": "a1_01",
+        "title": "A1 ইউনিট 1",
+        "level": "A1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a1_02",
+        "title": "A1 ইউনিট 2",
+        "level": "A1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a1_03",
+        "title": "A1 ইউনিট 3",
+        "level": "A1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a1_04",
+        "title": "A1 ইউনিট 4",
+        "level": "A1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a1_05",
+        "title": "A1 ইউনিট 5",
+        "level": "A1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a1_06",
+        "title": "A1 ইউনিট 6",
+        "level": "A1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a1_07",
+        "title": "A1 ইউনিট 7",
+        "level": "A1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a1_08",
+        "title": "A1 ইউনিট 8",
+        "level": "A1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "A2",
+    "lessons": [
+      {
+        "id": "a2_01",
+        "title": "A2 ইউনিট 1",
+        "level": "A2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a2_02",
+        "title": "A2 ইউনিট 2",
+        "level": "A2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a2_03",
+        "title": "A2 ইউনিট 3",
+        "level": "A2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a2_04",
+        "title": "A2 ইউনিট 4",
+        "level": "A2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a2_05",
+        "title": "A2 ইউনিট 5",
+        "level": "A2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a2_06",
+        "title": "A2 ইউনিট 6",
+        "level": "A2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a2_07",
+        "title": "A2 ইউনিট 7",
+        "level": "A2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "a2_08",
+        "title": "A2 ইউনিট 8",
+        "level": "A2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "B1",
+    "lessons": [
+      {
+        "id": "b1_01",
+        "title": "B1 ইউনিট 1",
+        "level": "B1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b1_02",
+        "title": "B1 ইউনিট 2",
+        "level": "B1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b1_03",
+        "title": "B1 ইউনিট 3",
+        "level": "B1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b1_04",
+        "title": "B1 ইউনিট 4",
+        "level": "B1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b1_05",
+        "title": "B1 ইউনিট 5",
+        "level": "B1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b1_06",
+        "title": "B1 ইউনিট 6",
+        "level": "B1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b1_07",
+        "title": "B1 ইউনিট 7",
+        "level": "B1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b1_08",
+        "title": "B1 ইউনিট 8",
+        "level": "B1",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "level": "B2",
+    "lessons": [
+      {
+        "id": "b2_01",
+        "title": "B2 ইউনিট 1",
+        "level": "B2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b2_02",
+        "title": "B2 ইউনিট 2",
+        "level": "B2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b2_03",
+        "title": "B2 ইউনিট 3",
+        "level": "B2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b2_04",
+        "title": "B2 ইউনিট 4",
+        "level": "B2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b2_05",
+        "title": "B2 ইউনিট 5",
+        "level": "B2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b2_06",
+        "title": "B2 ইউনিট 6",
+        "level": "B2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b2_07",
+        "title": "B2 ইউনিট 7",
+        "level": "B2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      },
+      {
+        "id": "b2_08",
+        "title": "B2 ইউনিট 8",
+        "level": "B2",
+        "steps": [
+          {
+            "type": "listen",
+            "promptBn": "শুনো: Ich bin aus Bangladesch.",
+            "promptDe": "Ich bin aus Bangladesch."
+          },
+          {
+            "type": "mcq",
+            "promptBn": "'Freund' মানে?",
+            "options": [
+              "বন্ধু",
+              "শত্রু",
+              "কলম"
+            ],
+            "answer": "বন্ধু"
+          },
+          {
+            "type": "typein",
+            "promptBn": "লিখো: 'আমি জার্মান শিখছি' (DE)",
+            "answer": "Ich lerne Deutsch"
+          },
+          {
+            "type": "speak",
+            "promptBn": "বলো: 'Guten Morgen'",
+            "answer": "Guten Morgen"
+          }
+        ]
+      }
+    ]
+  }
+]
