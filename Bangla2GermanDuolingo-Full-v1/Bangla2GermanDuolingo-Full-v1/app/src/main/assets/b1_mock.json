@@ -1,0 +1,120 @@
+{
+  "reading": [
+    {
+      "prompt": "Anmeldung: 'Kurs beginnt am 15.10.' Frage: Wann beginnt der Kurs?",
+      "options": [
+        "১৫ অক্টোবর",
+        "১০ অক্টোবর",
+        "৫ অক্টোবর"
+      ],
+      "answer": "১৫ অক্টোবর"
+    },
+    {
+      "prompt": "Mitteilung: 'Bitte Ruhe nach 22 Uhr.' Frage: Was soll man machen?",
+      "options": [
+        "২২টার পর চুপ থাকা",
+        "২২টার পর পার্টি",
+        "২২টার পর মিউজিক অন"
+      ],
+      "answer": "২২টার পর চুপ থাকা"
+    },
+    {
+      "prompt": "Email: 'Ich kündige den Vertrag zum 30.09.' Frage: Was passiert?",
+      "options": [
+        "চুক্তি ৩০.০৯ এ শেষ",
+        "চুক্তি শুরু",
+        "চুক্তি বাড়ানো"
+      ],
+      "answer": "চুক্তি ৩০.০৯ এ শেষ"
+    },
+    {
+      "prompt": "Aushang: 'Sperrmüll am Samstag.' Frage: Worum geht es?",
+      "options": [
+        "বড় জিনিস ফেলা",
+        "মেলা",
+        "কনসার্ট"
+      ],
+      "answer": "বড় জিনিস ফেলা"
+    },
+    {
+      "prompt": "Anzeige: 'Nebenkosten nicht inklusive.' Frage: Was fehlt?",
+      "options": [
+        "সাইড খরচ",
+        "ভাড়া",
+        "ডিপোজিট"
+      ],
+      "answer": "সাইড খরচ"
+    }
+  ],
+  "listening": [
+    {
+      "prompt": "Der Termin wurde auf nächste Woche verschoben.",
+      "options": [
+        "পরের সপ্তাহে সরানো",
+        "আজই হবে",
+        "বাতিল"
+      ],
+      "answer": "পরের সপ্তাহে সরানো"
+    },
+    {
+      "prompt": "Ich habe leider meinen Ausweis vergessen.",
+      "options": [
+        "আইডি ভুলে গেছে",
+        "আইডি পেয়েছে",
+        "আইডি জমা দিয়েছে"
+      ],
+      "answer": "আইডি ভুলে গেছে"
+    },
+    {
+      "prompt": "Wir treffen uns am Bahnhof um halb acht.",
+      "options": [
+        "সাড়ে সাতটায় স্টেশনে দেখা",
+        "সাড়ে আটটায় দেখা",
+        "সাড়ে ছয়টায় দেখা"
+      ],
+      "answer": "সাড়ে সাতটায় স্টেশনে দেখা"
+    },
+    {
+      "prompt": "Könnten Sie mir bitte helfen?",
+      "options": [
+        "সাহায্য চাইছে",
+        "অভিযোগ করছে",
+        "ধন্যবাদ দিচ্ছে"
+      ],
+      "answer": "সাহায্য চাইছে"
+    },
+    {
+      "prompt": "Die Ware wird morgen geliefert.",
+      "options": [
+        "কাল ডেলিভারি হবে",
+        "আজ ডেলিভারি",
+        "ডেলিভারি বাতিল"
+      ],
+      "answer": "কাল ডেলিভারি হবে"
+    }
+  ],
+  "writing": [
+    {
+      "prompt": "Thema: 'Bewerbung um eine Teilzeitstelle' — mindestens 140 Wörter। Stichwörter: 'Erfahrung, flexibel, Wochenende, Motivation'. জার্মানে লিখুন।",
+      "keywords": [
+        "Erfahrung",
+        "flexibel",
+        "Wochenende",
+        "Motivation"
+      ],
+      "minWords": 140
+    }
+  ],
+  "speaking": [
+    {
+      "prompt": "Thema: 'Reisen' — প্রিয় ভ্রমণ, পরিকল্পনা, বাজেট, অভিজ্ঞতা (কমপক্ষে 100 শব্দ)। Stichwörter: 'Plan, Budget, Erfahrung, Problem'. জার্মানে বলুন।",
+      "keywords": [
+        "Plan",
+        "Budget",
+        "Erfahrung",
+        "Problem"
+      ],
+      "minWords": 100
+    }
+  ]
+}

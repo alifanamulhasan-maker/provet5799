@@ -1,0 +1,67 @@
+[
+  {
+    "stage": "A1 (Beginner)",
+    "goals": [
+      "অভিবাদন, পরিচয়, সংখ্যা",
+      "প্রেজেন্ট টেন্স",
+      "~700 শব্দ"
+    ],
+    "sampleTopics": [
+      "পরিচয়",
+      "পরিবার",
+      "খাবার",
+      "কেনাকাটা"
+    ],
+    "checkpointLessonIds": [
+      "a1_04"
+    ]
+  },
+  {
+    "stage": "A2 (Elementary)",
+    "goals": [
+      "Past/Future বেসিক",
+      "দৈনন্দিন পরিস্থিতি",
+      "~1400 শব্দ"
+    ],
+    "sampleTopics": [
+      "ভ্রমণ",
+      "স্বাস্থ্য",
+      "ট্রান্সপোর্ট"
+    ],
+    "checkpointLessonIds": [
+      "a2_04"
+    ]
+  },
+  {
+    "stage": "B1 (Intermediate)",
+    "goals": [
+      "মতামত, কারণ-ফলাফল",
+      "লম্বা টেক্সট",
+      "~2600 শব্দ"
+    ],
+    "sampleTopics": [
+      "কাজ",
+      "শিক্ষা",
+      "সমাজ"
+    ],
+    "checkpointLessonIds": [
+      "b1_05"
+    ]
+  },
+  {
+    "stage": "B2 (Upper-Interm.)",
+    "goals": [
+      "ফর্মাল লেখা/রিপোর্ট",
+      "Konjunktiv II/Passiv",
+      "~4200 শব্দ"
+    ],
+    "sampleTopics": [
+      "ইমেইল",
+      "মিডিয়া",
+      "প্রেজেন্টেশন"
+    ],
+    "checkpointLessonIds": [
+      "b2_06"
+    ]
+  }
+]

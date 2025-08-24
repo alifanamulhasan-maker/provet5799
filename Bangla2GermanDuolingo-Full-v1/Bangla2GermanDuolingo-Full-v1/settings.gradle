@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = 'Bangla2GermanDuolingoFull'
+include ':app'
+include ':app'
